@@ -1383,12 +1383,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #f7ed4a;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #f7ed4a;
+  background: #232323;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1472,7 +1472,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #f7ed4a;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1767,12 +1767,12 @@ body {
 }
 .cid-rec73ujfLk .navbar {
   padding: .5rem 0;
-  background: #f7ed4a;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-rec73ujfLk .navbar-dropdown.bg-color.transparent.opened {
-  background: #f7ed4a;
+  background: #232323;
 }
 .cid-rec73ujfLk a {
   font-style: normal;
@@ -1856,7 +1856,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rec73ujfLk .dropdown .dropdown-menu {
-  background: #f7ed4a;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2304,12 +2304,12 @@ body {
 }
 .cid-rec74nlsot .navbar {
   padding: .5rem 0;
-  background: #f7ed4a;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-rec74nlsot .navbar-dropdown.bg-color.transparent.opened {
-  background: #f7ed4a;
+  background: #232323;
 }
 .cid-rec74nlsot a {
   font-style: normal;
@@ -2393,7 +2393,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rec74nlsot .dropdown .dropdown-menu {
-  background: #f7ed4a;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2765,12 +2765,12 @@ body {
 }
 .cid-rec75gZj5j .navbar {
   padding: .5rem 0;
-  background: #f7ed4a;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-rec75gZj5j .navbar-dropdown.bg-color.transparent.opened {
-  background: #f7ed4a;
+  background: #232323;
 }
 .cid-rec75gZj5j a {
   font-style: normal;
@@ -2854,7 +2854,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rec75gZj5j .dropdown .dropdown-menu {
-  background: #f7ed4a;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3143,9 +3143,6 @@ body {
 .cid-rec75gZj5j .nav-link:hover,
 .cid-rec75gZj5j .dropdown-item:hover {
   color: #232323 !important;
-}
-.cid-rec75jAWV3 {
-  background-image: url("../../../assets/images/49713948-514264002315346-281552689848909824-n-1728x840.jpg");
 }
 .cid-rec75ZpbuJ .navbar {
   padding: .5rem 0;
